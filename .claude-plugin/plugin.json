@@ -1,0 +1,54 @@
+{
+  "name": "flutterbase",
+  "version": "1.0.0",
+  "description": "The Flutter + Supabase stack kit: architecture, screens, state, models, repositories, performance, accessibility, localization and store release.",
+  "author": {
+    "name": "Kratagya Devvratt Agarwal"
+  },
+  "repository": "https://github.com/kratagyaagarwal2262/flutterbase.git",
+  "license": "MIT",
+  "keywords": [
+    "flutter",
+    "dart",
+    "supabase",
+    "testing",
+    "accessibility",
+    "performance",
+    "app-store",
+    "design"
+  ],
+  "skills": [
+    "./skills/flutter-accessibility",
+    "./skills/flutter-build-failure",
+    "./skills/flutter-core-architecture",
+    "./skills/flutter-create-model",
+    "./skills/flutter-create-repository",
+    "./skills/flutter-create-screen",
+    "./skills/flutter-create-state-layer",
+    "./skills/flutter-design",
+    "./skills/flutter-localization",
+    "./skills/flutter-modernize-screen",
+    "./skills/flutter-navigation",
+    "./skills/flutter-performance",
+    "./skills/flutter-scaffold-feature",
+    "./skills/flutter-security-review",
+    "./skills/flutter-supabase-build",
+    "./skills/flutter-supabase-conventions",
+    "./skills/flutter-supabase-design",
+    "./skills/flutter-supabase-release",
+    "./skills/flutter-supabase-setup",
+    "./skills/flutter-supabase-verify",
+    "./skills/flutter-upgrade-deps",
+    "./skills/flutter-write-tests",
+    "./skills/setup-integration-harness",
+    "./skills/store-compliance"
+  ],
+  "agents": [
+    "./agents/flutter-repo-engineer.md",
+    "./agents/flutter-state-engineer.md",
+    "./agents/flutter-test-engineer.md",
+    "./agents/flutter-ui-engineer.md",
+    "./agents/store-doc-writer.md"
+  ],
+  "hooks": "./hooks/hooks.json"
+}

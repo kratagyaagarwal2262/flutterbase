@@ -1,0 +1,22 @@
+{
+  "name": "kratagyaagarwal",
+  "owner": {
+    "name": "Kratagya Devvratt Agarwal"
+  },
+  "description": "Flutter + Supabase engineering skills: build screens and features test-first and ship to the stores.",
+  "plugins": [
+    {
+      "name": "flutterbase",
+      "source": "./",
+      "description": "Flutter + Supabase engineering skills: build screens and features test-first and ship to the stores.",
+      "category": "development",
+      "keywords": [
+        "flutter",
+        "dart",
+        "supabase",
+        "testing",
+        "accessibility"
+      ]
+    }
+  ]
+}
