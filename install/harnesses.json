@@ -1,7 +1,7 @@
 {
   "$comment": "The one registry of supported harnesses. scripts/kit.py installs from these paths and scripts/build-site.py renders the install tabs and support table from them, so the two cannot disagree. Paths are user-global; ~ is the user's home. `headless` is how `kit loop` runs one role as its own process; an unverified template has not been run against that CLI yet, and the loop refuses it unless models.json sets allow_unverified.",
   "repo": "kratagyaagarwal2262/flutterbase",
-  "plugin": "flutterbase@kratagyaagarwal",
+  "plugin": "flutterbase@flutterbase",
   "shared_skills_dir": "~/.agents/skills",
   "harnesses": [
     {
@@ -16,7 +16,7 @@
         ]
       },
       "method": "plugin",
-      "install": "# inside Claude Code\n/plugin marketplace add kratagyaagarwal2262/flutterbase\n/plugin install flutterbase@kratagyaagarwal",
+      "install": "# inside Claude Code\n/plugin marketplace add kratagyaagarwal2262/flutterbase\n/plugin install flutterbase@flutterbase",
       "note": "Installed as a managed plugin: skills, agents and hooks in one step, updated by the marketplace.",
       "support": {
         "skills": true,
