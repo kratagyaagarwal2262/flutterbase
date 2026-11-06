@@ -64,7 +64,7 @@ curl -fsSL https://raw.githubusercontent.com/kratagyaagarwal2262/flutterbase/mai
 ```text
 # Claude Code installs as a managed plugin, from inside Claude Code
 /plugin marketplace add kratagyaagarwal2262/flutterbase
-/plugin install flutterbase@kratagyaagarwal
+/plugin install flutterbase@flutterbase
 ```
 
 Including `claude` in `--for` runs those two commands for you when the `claude` CLI is on your PATH.
